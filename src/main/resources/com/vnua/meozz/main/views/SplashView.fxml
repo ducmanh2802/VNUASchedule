@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.gluonhq.charm.glisten.mvc.SplashView?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+
+
+<SplashView fx:id="splash" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"  prefHeight="720.0" prefWidth="350.0" xmlns="http://javafx.com/javafx/9" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.vnua.meozz.view.SplashPresenter">
+   <left>
+      <ImageView translateX="75.0" BorderPane.alignment="CENTER">
+         <image>
+            <Image url="@../images/ic_schedule_48.png" />
+         </image>
+      </ImageView>
+   </left>
+   <center>
+      <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="18.0" prefWidth="169.0" text="VNUA Scheduler" translateX="-20.0" BorderPane.alignment="CENTER" />
+   </center>
+</SplashView>

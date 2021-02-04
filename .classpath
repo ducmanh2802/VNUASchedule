@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-11.0.9">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/android-4.0.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/annotations-17.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/charm-connect-2.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/charm-down-common-1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/charm-down-common-3.0.0-b8.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/charm-down-plugin-connectivity-3.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/charm-down-plugin-position-3.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/charm-down-plugin-storage-3.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/charm-down-plugin-storage-3.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/charm-down-plugin-storage-3.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/charm-glisten-4.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/charm-glisten-6.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/charm-glisten-connect-view-6.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/com.google.gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/connect-1.0.2-b15.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/google-services-4.3.4.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/javafx-base-16-ea+5.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/javafx-graphics-16-ea+5.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/jfxdvk-8.60.7.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/mockito-core-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/org.json.simple-0.4.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/storage-4.0.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/util-4.0.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/JavaFXProjects/JARs/charm-down-core-3.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/JavaFXProjects/JARs/charm-glisten-6.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/JavaFXProjects/JARs/jfoenix-8.0.10.jar"/>
+	<classpathentry kind="lib" path="E:/JavaFXProjects/JARs/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="E:/JavaFXProjects/JARs/charm-down-desktop-1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/JavaFXProjects/JARs/charm-down-desktop-3.0.0-b8.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/charm-glisten-4.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/charm-glisten-5.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Java 11 2021/javafx-sdk-11.0.2/lib/javafx.base.jar"/>
+	<classpathentry kind="lib" path="D:/Java 11 2021/javafx-sdk-11.0.2/lib/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="D:/Java 11 2021/javafx-sdk-11.0.2/lib/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="D:/Java 11 2021/javafx-sdk-11.0.2/lib/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="D:/Java 11 2021/javafx-sdk-11.0.2/lib/javafx.media.jar"/>
+	<classpathentry kind="lib" path="D:/Java 11 2021/javafx-sdk-11.0.2/lib/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="D:/Java 11 2021/javafx-sdk-11.0.2/lib/javafx.web.jar"/>
+	<classpathentry kind="lib" path="D:/Java 11 2021/javafx-sdk-11.0.2/lib/javafx-swt.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/afterburner.fx-1.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/afterburner.mfx-1.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/Git Repo/FX Projects/Jars/push-notifications-4.0.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

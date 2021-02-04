@@ -1,0 +1,17 @@
+
+* {
+	-primary-swatch-500: #007C3D;	
+	-fx-background-color: -primary-swatch-500;
+}
+
+.title-text{
+    -fx-text-fill: #375FCB ;
+    -fx-font-weight: bold;
+    -fx-font-size: 14;
+}
+
+.app-text{
+    -fx-text-fill: #375FCB;
+    -fx-font-style: italic;
+    -fx-font-size: 14;
+}
