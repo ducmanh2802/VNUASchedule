@@ -1,0 +1,68 @@
+[
+  {
+    "tenMonHoc": "Pháp luật đại cương",
+    "ghepThi": "25",
+    "toThi": "002",
+    "soLuong": "50",
+    "ngayThi": "11/01/2021",
+    "ngayThu": "Thứ Hai",
+    "phongThi": "ND302",
+    "thoiGian": "7h55 - 9h40",
+    "tietThi": "2 - 3"
+  },
+  {
+    "tenMonHoc": "Nguyên lý kinh tế",
+    "ghepThi": "13",
+    "toThi": "002",
+    "soLuong": "50",
+    "ngayThi": "11/01/2021",
+    "ngayThu": "Thứ Hai",
+    "phongThi": "ND408",
+    "thoiGian": "9h55 - 11h40",
+    "tietThi": "4 - 5"
+  },
+  {
+    "tenMonHoc": "Quản trị học",
+    "ghepThi": "07",
+    "toThi": "002",
+    "soLuong": "50",
+    "ngayThi": "12/01/2021",
+    "ngayThu": "Thứ Ba",
+    "phongThi": "ND308",
+    "thoiGian": "7h55 - 9h40",
+    "tietThi": "2 - 3"
+  },
+  {
+    "tenMonHoc": "Triết học Mác - Lê Nin",
+    "ghepThi": "38",
+    "toThi": "002",
+    "soLuong": "50",
+    "ngayThi": "13/01/2021",
+    "ngayThu": "Thứ Tư",
+    "phongThi": "QS104",
+    "thoiGian": "9h55 - 11h40",
+    "tietThi": "4 - 5"
+  },
+  {
+    "tenMonHoc": "Xác suất thống kê",
+    "ghepThi": "22",
+    "toThi": "002",
+    "soLuong": "50",
+    "ngayThi": "17/01/2021",
+    "ngayThu": "Chủ Nhật",
+    "phongThi": "ND201",
+    "thoiGian": "7h55 - 9h40",
+    "tietThi": "2 - 3"
+  },
+  {
+    "tenMonHoc": "Tin học đại cương",
+    "ghepThi": "41",
+    "toThi": "002",
+    "soLuong": "30",
+    "ngayThi": "27/01/2021",
+    "ngayThu": "Thứ Tư",
+    "phongThi": "THCNTT12",
+    "thoiGian": "12h45 - 14h30",
+    "tietThi": "6 - 7"
+  }
+]. Just in case.

@@ -1,0 +1,79 @@
+[
+  {
+    "tenMonHoc": "Xác suất thống kê",
+    "ghepThi": "21",
+    "toThi": "001",
+    "soLuong": "58",
+    "ngayThi": "17/01/2021",
+    "ngayThu": "Chủ Nhật",
+    "phongThi": "ND103",
+    "thoiGian": "7h55 - 9h40",
+    "tietThi": "2 - 3"
+  },
+  {
+    "tenMonHoc": "Pháp luật đại cương",
+    "ghepThi": "24",
+    "toThi": "001",
+    "soLuong": "59",
+    "ngayThi": "20/01/2021",
+    "ngayThu": "Thứ Tư",
+    "phongThi": "ND206",
+    "thoiGian": "9h55 - 11h40",
+    "tietThi": "4 - 5"
+  },
+  {
+    "tenMonHoc": "Tin học đại cương",
+    "ghepThi": "40",
+    "toThi": "002",
+    "soLuong": "29",
+    "ngayThi": "23/01/2021",
+    "ngayThu": "Thứ Bảy",
+    "phongThi": "THCNTT09",
+    "thoiGian": "12h45 - 14h30",
+    "tietThi": "6 - 7"
+  },
+  {
+    "tenMonHoc": "Quản trị học",
+    "ghepThi": "06",
+    "toThi": "001",
+    "soLuong": "58",
+    "ngayThi": "25/01/2021",
+    "ngayThu": "Thứ Hai",
+    "phongThi": "ND105",
+    "thoiGian": "7h55 - 9h40",
+    "tietThi": "2 - 3"
+  },
+  {
+    "tenMonHoc": "Kỹ năng giao tiếp",
+    "ghepThi": "40",
+    "toThi": "001",
+    "soLuong": "50",
+    "ngayThi": "03/03/2021",
+    "ngayThu": "Thứ Tư",
+    "phongThi": "ND203",
+    "thoiGian": "12h45 - 14h30",
+    "tietThi": "6 - 7"
+  },
+  {
+    "tenMonHoc": "Nguyên lý kinh tế",
+    "ghepThi": "12",
+    "toThi": "001",
+    "soLuong": "58",
+    "ngayThi": "08/03/2021",
+    "ngayThu": "Thứ Hai",
+    "phongThi": "ND201",
+    "thoiGian": "9h55 - 11h40",
+    "tietThi": "4 - 5"
+  },
+  {
+    "tenMonHoc": "Triết học Mác - Lê Nin",
+    "ghepThi": "37",
+    "toThi": "001",
+    "soLuong": "58",
+    "ngayThi": "10/03/2021",
+    "ngayThu": "Thứ Tư",
+    "phongThi": "ND105",
+    "thoiGian": "9h55 - 11h40",
+    "tietThi": "4 - 5"
+  }
+]

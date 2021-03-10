@@ -630,6 +630,7 @@ javafx/scene/control/TreeCell$$Lambda$3.class
 javafx/scene/control/LabelBuilder.class
 com/sun/javafx/collections/UnmodifiableObservableMap$$Lambda$1.class
 android/view/ViewTreeObserver$OnPreDrawListener.class
+com/vnua/meozz/main/Main.class
 com/sun/javafx/css/parser/CSSLexer$$Lambda$47.class
 com/sun/javafx/scene/control/skin/ColorPalette$1$$Lambda$4.class
 javafx/concurrent/Task$$Lambda$3.class

@@ -1,0 +1,79 @@
+[
+  {
+    "tenMonHoc": "Cấu trúc dữ liệu và giải thuật",
+    "ghepThi": "02",
+    "toThi": "001",
+    "soLuong": "57",
+    "ngayThi": "14/01/2021",
+    "ngayThu": "Thứ Năm",
+    "phongThi": "ND309",
+    "thoiGian": "12h45 - 14h30",
+    "tietThi": "6 - 7"
+  },
+  {
+    "tenMonHoc": "Phân tích & thiết kế hệ thống",
+    "ghepThi": "02",
+    "toThi": "002",
+    "soLuong": "30",
+    "ngayThi": "18/01/2021",
+    "ngayThu": "Thứ Hai",
+    "phongThi": "B.308",
+    "thoiGian": "9h55 - 11h40",
+    "tietThi": "4 - 5"
+  },
+  {
+    "tenMonHoc": "Phương pháp tính",
+    "ghepThi": "02",
+    "toThi": "001",
+    "soLuong": "44",
+    "ngayThi": "21/01/2021",
+    "ngayThu": "Thứ Năm",
+    "phongThi": "ND309",
+    "thoiGian": "12h45 - 14h30",
+    "tietThi": "6 - 7"
+  },
+  {
+    "tenMonHoc": "Chương trình dịch",
+    "ghepThi": "01",
+    "toThi": "001",
+    "soLuong": "49",
+    "ngayThi": "26/01/2021",
+    "ngayThu": "Thứ Ba",
+    "phongThi": "ND203",
+    "thoiGian": "9h55 - 11h40",
+    "tietThi": "4 - 5"
+  },
+  {
+    "tenMonHoc": "Quản lý phiên bản phần mềm",
+    "ghepThi": "01",
+    "toThi": "002",
+    "soLuong": "19",
+    "ngayThi": "28/01/2021",
+    "ngayThu": "Thứ Năm",
+    "phongThi": "THCNTT12",
+    "thoiGian": "7h55 - 9h40",
+    "tietThi": "2 - 3"
+  },
+  {
+    "tenMonHoc": "Thiết kế giao diện web",
+    "ghepThi": "01",
+    "toThi": "002",
+    "soLuong": "31",
+    "ngayThi": "09/03/2021",
+    "ngayThu": "Thứ Ba",
+    "phongThi": "THCNTT09",
+    "thoiGian": "7h55 - 9h40",
+    "tietThi": "2 - 3"
+  },
+  {
+    "tenMonHoc": "Nguyên lý hệ điều hành",
+    "ghepThi": "01",
+    "toThi": "003",
+    "soLuong": "25",
+    "ngayThi": "11/03/2021",
+    "ngayThu": "Thứ Năm",
+    "phongThi": "THCNTT07",
+    "thoiGian": "7h55 - 9h40",
+    "tietThi": "2 - 3"
+  }
+]

@@ -1,0 +1,1324 @@
+[
+  {
+    "maTuan": "01",
+    "startDate": "September 7th",
+    "endDate": "September 14th",
+    "dsMonHoc": []
+  },
+  {
+    "maTuan": "02",
+    "startDate": "September 14th",
+    "endDate": "September 21st",
+    "dsMonHoc": []
+  },
+  {
+    "maTuan": "03",
+    "startDate": "September 21st",
+    "endDate": "September 28th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "21/09/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "21/09/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "22/09/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "22/09/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "23/09/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "23/09/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "24/09/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "24/09/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "25/09/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "25/09/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "26/09/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "26/09/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sun",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "27/09/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sun",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "27/09/2020"
+      }
+    ]
+  },
+  {
+    "maTuan": "04",
+    "startDate": "September 28th",
+    "endDate": "October 5th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "28/09/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "28/09/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "29/09/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "29/09/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "30/09/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "30/09/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "01/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "01/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "02/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "02/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "03/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "03/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sun",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "04/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sun",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "04/10/2020"
+      }
+    ]
+  },
+  {
+    "maTuan": "05",
+    "startDate": "October 5th",
+    "endDate": "October 12th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "05/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "05/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "06/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "06/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "07/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "07/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "08/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "08/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "09/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "09/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "10/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "10/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sun",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "11/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sun",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "11/10/2020"
+      }
+    ]
+  },
+  {
+    "maTuan": "06",
+    "startDate": "October 12th",
+    "endDate": "October 19th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "12/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "12/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "13/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "13/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "14/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "14/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "15/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "15/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "16/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "16/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "17/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "17/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sun",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "18/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sun",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "18/10/2020"
+      }
+    ]
+  },
+  {
+    "maTuan": "07",
+    "startDate": "October 19th",
+    "endDate": "October 26th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "19/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "19/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "20/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "20/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "21/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "21/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "22/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "22/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "23/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "23/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "24/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "24/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sun",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "25/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sun",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "25/10/2020"
+      }
+    ]
+  },
+  {
+    "maTuan": "08",
+    "startDate": "October 26th",
+    "endDate": "November 2nd",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "26/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "26/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "27/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "27/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "28/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "28/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "29/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "29/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "30/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "30/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "31/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "31/10/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sun",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "01/11/2020"
+      },
+      {
+        "maMonHoc": "TH03199",
+        "tenMonHoc": "Thực tập chuyên ngành CNPM",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCD98",
+        "ngayThu": "Sun",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "01/11/2020"
+      }
+    ]
+  },
+  {
+    "maTuan": "09",
+    "startDate": "November 2nd",
+    "endDate": "November 9th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TH03114",
+        "tenMonHoc": "Kiểm thử\u0026bảo mật ứng dụng Web",
+        "tietBatDau": "6",
+        "diaDiemHoc": "E205",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "04/11/2020"
+      },
+      {
+        "maMonHoc": "TH03114",
+        "tenMonHoc": "Kiểm thử\u0026bảo mật ứng dụng Web",
+        "tietBatDau": "4",
+        "diaDiemHoc": "E304",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "06/11/2020"
+      }
+    ]
+  },
+  {
+    "maTuan": "10",
+    "startDate": "November 9th",
+    "endDate": "November 16th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TH03114",
+        "tenMonHoc": "Kiểm thử\u0026bảo mật ứng dụng Web",
+        "tietBatDau": "6",
+        "diaDiemHoc": "E205",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "11/11/2020"
+      },
+      {
+        "maMonHoc": "TH03114",
+        "tenMonHoc": "Kiểm thử\u0026bảo mật ứng dụng Web",
+        "tietBatDau": "4",
+        "diaDiemHoc": "E304",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "13/11/2020"
+      }
+    ]
+  },
+  {
+    "maTuan": "11",
+    "startDate": "November 16th",
+    "endDate": "November 23rd",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TH03114",
+        "tenMonHoc": "Kiểm thử\u0026bảo mật ứng dụng Web",
+        "tietBatDau": "6",
+        "diaDiemHoc": "E205",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "18/11/2020"
+      },
+      {
+        "maMonHoc": "TH03114",
+        "tenMonHoc": "Kiểm thử\u0026bảo mật ứng dụng Web",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCNTT09",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "19/11/2020"
+      }
+    ]
+  },
+  {
+    "maTuan": "12",
+    "startDate": "November 23rd",
+    "endDate": "November 30th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TH03114",
+        "tenMonHoc": "Kiểm thử\u0026bảo mật ứng dụng Web",
+        "tietBatDau": "6",
+        "diaDiemHoc": "E205",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "25/11/2020"
+      },
+      {
+        "maMonHoc": "TH03114",
+        "tenMonHoc": "Kiểm thử\u0026bảo mật ứng dụng Web",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCNTT09",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "26/11/2020"
+      },
+      {
+        "maMonHoc": "TH03114",
+        "tenMonHoc": "Kiểm thử\u0026bảo mật ứng dụng Web",
+        "tietBatDau": "4",
+        "diaDiemHoc": "E304",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "27/11/2020"
+      }
+    ]
+  },
+  {
+    "maTuan": "13",
+    "startDate": "November 30th",
+    "endDate": "December 7th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TH03114",
+        "tenMonHoc": "Kiểm thử\u0026bảo mật ứng dụng Web",
+        "tietBatDau": "6",
+        "diaDiemHoc": "E205",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "02/12/2020"
+      },
+      {
+        "maMonHoc": "TH03114",
+        "tenMonHoc": "Kiểm thử\u0026bảo mật ứng dụng Web",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCNTT09",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "03/12/2020"
+      },
+      {
+        "maMonHoc": "TH03114",
+        "tenMonHoc": "Kiểm thử\u0026bảo mật ứng dụng Web",
+        "tietBatDau": "4",
+        "diaDiemHoc": "E304",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "04/12/2020"
+      }
+    ]
+  },
+  {
+    "maTuan": "14",
+    "startDate": "December 7th",
+    "endDate": "December 14th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TH03114",
+        "tenMonHoc": "Kiểm thử\u0026bảo mật ứng dụng Web",
+        "tietBatDau": "6",
+        "diaDiemHoc": "E205",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "09/12/2020"
+      },
+      {
+        "maMonHoc": "TH03114",
+        "tenMonHoc": "Kiểm thử\u0026bảo mật ứng dụng Web",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCNTT09",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "10/12/2020"
+      },
+      {
+        "maMonHoc": "TH03114",
+        "tenMonHoc": "Kiểm thử\u0026bảo mật ứng dụng Web",
+        "tietBatDau": "4",
+        "diaDiemHoc": "E304",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "11/12/2020"
+      }
+    ]
+  },
+  {
+    "maTuan": "15",
+    "startDate": "December 14th",
+    "endDate": "December 21st",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TH03114",
+        "tenMonHoc": "Kiểm thử\u0026bảo mật ứng dụng Web",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCNTT09",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "17/12/2020"
+      }
+    ]
+  },
+  {
+    "maTuan": "16",
+    "startDate": "December 21st",
+    "endDate": "December 28th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TH03114",
+        "tenMonHoc": "Kiểm thử\u0026bảo mật ứng dụng Web",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THCNTT09",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "24/12/2020"
+      }
+    ]
+  }
+]

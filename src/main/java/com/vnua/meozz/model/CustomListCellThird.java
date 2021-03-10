@@ -184,6 +184,8 @@ public class CustomListCellThird extends ListCell<MonHoc> {
 		} else {
 			setGraphic(null);
 		}
+		
+		
 	}
 
 	public int getCountCheck() {

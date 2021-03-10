@@ -1,0 +1,90 @@
+[
+  {
+    "tenMonHoc": "Cấu trúc dữ liệu và giải thuật",
+    "ghepThi": "01",
+    "toThi": "002",
+    "soLuong": "34",
+    "ngayThi": "18/01/2021",
+    "ngayThu": "Thứ Hai",
+    "phongThi": "ND402",
+    "thoiGian": "9h55 - 11h40",
+    "tietThi": "4 - 5"
+  },
+  {
+    "tenMonHoc": "Phân tích \u0026 thiết kế hệ thống",
+    "ghepThi": "01",
+    "toThi": "002",
+    "soLuong": "37",
+    "ngayThi": "23/01/2021",
+    "ngayThu": "Thứ Bảy",
+    "phongThi": "ND309",
+    "thoiGian": "9h55 - 11h40",
+    "tietThi": "4 - 5"
+  },
+  {
+    "tenMonHoc": "Tiếng Anh 0",
+    "ghepThi": "05",
+    "toThi": "002",
+    "soLuong": "30",
+    "ngayThi": "24/01/2021",
+    "ngayThu": "Chủ Nhật",
+    "phongThi": "B.209",
+    "thoiGian": "7h55 - 9h40",
+    "tietThi": "2 - 3"
+  },
+  {
+    "tenMonHoc": "Phương pháp tính",
+    "ghepThi": "01",
+    "toThi": "001",
+    "soLuong": "58",
+    "ngayThi": "28/01/2021",
+    "ngayThu": "Thứ Năm",
+    "phongThi": "ND105",
+    "thoiGian": "9h55 - 11h40",
+    "tietThi": "4 - 5"
+  },
+  {
+    "tenMonHoc": "Chủ nghĩa xã hội khoa học",
+    "ghepThi": "04",
+    "toThi": "001",
+    "soLuong": "42",
+    "ngayThi": "05/03/2021",
+    "ngayThu": "Thứ Sáu",
+    "phongThi": "B.211",
+    "thoiGian": "14h35 - 16h30",
+    "tietThi": "8 - 9"
+  },
+  {
+    "tenMonHoc": "Nguyên lý kế toán",
+    "ghepThi": "02",
+    "toThi": "001",
+    "soLuong": "59",
+    "ngayThi": "06/03/2021",
+    "ngayThu": "Thứ Bảy",
+    "phongThi": "ND410",
+    "thoiGian": "9h55 - 11h40",
+    "tietThi": "4 - 5"
+  },
+  {
+    "tenMonHoc": "Kỹ năng giao tiếp",
+    "ghepThi": "17",
+    "toThi": "001",
+    "soLuong": "61",
+    "ngayThi": "08/03/2021",
+    "ngayThu": "Thứ Hai",
+    "phongThi": "ND302",
+    "thoiGian": "7h55 - 9h40",
+    "tietThi": "2 - 3"
+  },
+  {
+    "tenMonHoc": "Hệ quản trị cơ sở dữ liệu",
+    "ghepThi": "01",
+    "toThi": "001",
+    "soLuong": "51",
+    "ngayThi": "11/03/2021",
+    "ngayThu": "Thứ Năm",
+    "phongThi": "THCNTT01",
+    "thoiGian": "14h35 - 16h30",
+    "tietThi": "8 - 9"
+  }
+]

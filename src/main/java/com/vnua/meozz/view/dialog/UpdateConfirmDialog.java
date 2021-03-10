@@ -37,7 +37,7 @@ public class UpdateConfirmDialog extends Dialog {
 
     @SuppressWarnings("unchecked")
 	public UpdateConfirmDialog(String title) {
-        setTitleText("Thông báo xác nhận !!!");
+        setTitleText("Thông báo xác nhận");
         VBox content = new VBox();
         Label sessionTitleLabel = new Label(title);
         sessionTitleLabel.setStyle("-fx-font-family: 'Grandstander';");
@@ -48,7 +48,8 @@ public class UpdateConfirmDialog extends Dialog {
 
         setContent(content);
 
-        Button btnClose = new Button("CLOSE");
+        Button btnClose = new Button("Đóng");
+        btnClose.setStyle("-fx-font-family: 'Grandstander';");
         getButtons().addAll(btnClose);
 
         btnClose.setOnAction(event -> {

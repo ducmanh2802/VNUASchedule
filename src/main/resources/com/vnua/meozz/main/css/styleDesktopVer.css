@@ -153,12 +153,13 @@
     -fx-alignment: CENTER;
     -fx-text-fill: #000;
     -fx-font-size: 18.0px;
-    -fx-font-weight: bold;
+    -fx-font-family: 'Candara';
 }
 
 .jfx-tab-pane .tab:selected .tab-label { 
     -fx-alignment: CENTER;
     -fx-text-fill: #D72C16;
+    -fx-font-family: 'Candara';
 }
 
 .jfx-tab-pane .tab:selected .tab-content {
@@ -180,6 +181,47 @@
     -fx-stroke: #028D45;
     -fx-border-color: #028D45;
     -fx-stroke-width: 7.0pt;
+}
+
+.jfx-combo-box{
+	-fx-font-family: "Grandstander" ;
+    -fx-font-size:18.0px;
+}
+
+.jfx-combo-box .list-view, .jfx-combo-box .combo-box-popup .list-cell {
+    -fx-background-color: white ;
+    -fx-text-fill: black ;
+    -fx-font-family: "Grandstander" ;
+    -fx-font-size:16.0px;
+    -fx-border-top-left-radius: 10px; 
+    -fx-border-top-right-radius: 10px;
+    -fx-border-bottom-left-radius: 10px; 
+    -fx-border-bottom-right-radius: 10px; 
+    -fx-prompt-text-font-size: 16.0px ;
+    -fx-promt-text-font-family: "Grandstander";
+}
+
+.jfx-combo-box .combo-box-popup .list-cell:hover {
+    -fx-background-color: green ;
+    -fx-text-fill: yellow ;
+    -fx-font-family: "Grandstander" ;
+    -fx-font-size:16.0px;
+}
+
+.combo-box-popup > .list-view > .virtual-flow > .clipped-container > .sheet > .list-cell {
+        -fx-background-color: white;    
+        -fx-text-fill: black;
+}
+
+.combo-box-popup .list-view .list-cell{
+    -fx-text-fill: black;
+    -fx-padding: 2 0 4 5;
+    -fx-background-color: white;
+}
+
+.combo-box-popup .list-view .list-cell:filled:selected, .combo-box-popup .list-view .list-cell:filled:selected:hover{
+    -fx-background-color: white;
+    -fx-text-fill: black;
 }
 
 .table-view, .table-view .column-header, .tableview .column-header-background .filter, .table-view .corner {

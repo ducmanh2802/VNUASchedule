@@ -94,13 +94,13 @@ public class MonHoc {
 	
 	@Override
 	public String toString() {
-		return "\tMã môn hoc: "+maMonHoc+"."
-				+"\n\tTên môn hoc: "+tenMonHoc+"."
-				+"\n\tTiết bắt đâu: "+tietBatDau+"."
-				+"\n\tĐia điểm hoc: "+diaDiemHoc+"."
-				+"\n\tNgay thứ: "+ngayThu+"."
-				+"\n\t Thơi gian hoc: "+thoiGianHoc+"."
-				+"\n\tNgay: "+ngayHoc+".";
+		return "\tMã môn học: "+maMonHoc+"."
+				+"\n\tTên môn học: "+tenMonHoc+"."
+				+"\n\tTiết bắt đầu: "+tietBatDau+"."
+				+"\n\tĐịa điểm học: "+diaDiemHoc+"."
+				+"\n\tNgày thứ: "+ngayThu+"."
+				+"\n\t Thời gian học: "+thoiGianHoc+"."
+				+"\n\tNgày học: "+ngayHoc+".";
 	}
 	
 }

@@ -1,0 +1,1477 @@
+[
+  {
+    "maTuan": "01",
+    "startDate": "March 8th",
+    "endDate": "March 15th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "CD02634",
+        "tenMonHoc": "Cơ sở lý thuyết mạch",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.106",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "08/03/2021"
+      },
+      {
+        "maMonHoc": "ML01009",
+        "tenMonHoc": "Pháp luật đại cương",
+        "tietBatDau": "1",
+        "diaDiemHoc": "A105",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "09/03/2021"
+      },
+      {
+        "maMonHoc": "ML01020",
+        "tenMonHoc": "Triết học Mác - Lê Nin",
+        "tietBatDau": "4",
+        "diaDiemHoc": "B.209",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "09/03/2021"
+      },
+      {
+        "maMonHoc": "CD02632",
+        "tenMonHoc": "Kỹ thuật điện tử",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.307",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "09/03/2021"
+      },
+      {
+        "maMonHoc": "ML01009",
+        "tenMonHoc": "Pháp luật đại cương",
+        "tietBatDau": "4",
+        "diaDiemHoc": "C201",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "10/03/2021"
+      },
+      {
+        "maMonHoc": "TH03222",
+        "tenMonHoc": "Phát triển ứng dụng web cơ bản",
+        "tietBatDau": "6",
+        "diaDiemHoc": "A204",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "11/03/2021"
+      },
+      {
+        "maMonHoc": "CD02634",
+        "tenMonHoc": "Cơ sở lý thuyết mạch",
+        "tietBatDau": "9",
+        "diaDiemHoc": "A103",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "11/03/2021"
+      },
+      {
+        "maMonHoc": "ML01020",
+        "tenMonHoc": "Triết học Mác - Lê Nin",
+        "tietBatDau": "1",
+        "diaDiemHoc": "B.108",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "12/03/2021"
+      },
+      {
+        "maMonHoc": "ML01020",
+        "tenMonHoc": "Triết học Mác - Lê Nin",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.301",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "12/03/2021"
+      },
+      {
+        "maMonHoc": "CD02632",
+        "tenMonHoc": "Kỹ thuật điện tử",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.302",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "12/03/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "02",
+    "startDate": "March 15th",
+    "endDate": "March 22nd",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "CD02634",
+        "tenMonHoc": "Cơ sở lý thuyết mạch",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.106",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "15/03/2021"
+      },
+      {
+        "maMonHoc": "ML01009",
+        "tenMonHoc": "Pháp luật đại cương",
+        "tietBatDau": "1",
+        "diaDiemHoc": "A105",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "16/03/2021"
+      },
+      {
+        "maMonHoc": "ML01020",
+        "tenMonHoc": "Triết học Mác - Lê Nin",
+        "tietBatDau": "4",
+        "diaDiemHoc": "B.209",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "16/03/2021"
+      },
+      {
+        "maMonHoc": "CD02632",
+        "tenMonHoc": "Kỹ thuật điện tử",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.307",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "16/03/2021"
+      },
+      {
+        "maMonHoc": "ML01009",
+        "tenMonHoc": "Pháp luật đại cương",
+        "tietBatDau": "4",
+        "diaDiemHoc": "C201",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "17/03/2021"
+      },
+      {
+        "maMonHoc": "TH03222",
+        "tenMonHoc": "Phát triển ứng dụng web cơ bản",
+        "tietBatDau": "6",
+        "diaDiemHoc": "A204",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "18/03/2021"
+      },
+      {
+        "maMonHoc": "CD02634",
+        "tenMonHoc": "Cơ sở lý thuyết mạch",
+        "tietBatDau": "9",
+        "diaDiemHoc": "A103",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "18/03/2021"
+      },
+      {
+        "maMonHoc": "ML01020",
+        "tenMonHoc": "Triết học Mác - Lê Nin",
+        "tietBatDau": "1",
+        "diaDiemHoc": "B.108",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "19/03/2021"
+      },
+      {
+        "maMonHoc": "ML01020",
+        "tenMonHoc": "Triết học Mác - Lê Nin",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.301",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "19/03/2021"
+      },
+      {
+        "maMonHoc": "CD02632",
+        "tenMonHoc": "Kỹ thuật điện tử",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.302",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "19/03/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "03",
+    "startDate": "March 22nd",
+    "endDate": "March 29th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "CD02634",
+        "tenMonHoc": "Cơ sở lý thuyết mạch",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD20M",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "22/03/2021"
+      },
+      {
+        "maMonHoc": "CD02634",
+        "tenMonHoc": "Cơ sở lý thuyết mạch",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.106",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "22/03/2021"
+      },
+      {
+        "maMonHoc": "ML01009",
+        "tenMonHoc": "Pháp luật đại cương",
+        "tietBatDau": "1",
+        "diaDiemHoc": "A105",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "23/03/2021"
+      },
+      {
+        "maMonHoc": "ML01020",
+        "tenMonHoc": "Triết học Mác - Lê Nin",
+        "tietBatDau": "4",
+        "diaDiemHoc": "B.209",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "23/03/2021"
+      },
+      {
+        "maMonHoc": "CD02632",
+        "tenMonHoc": "Kỹ thuật điện tử",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.307",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "23/03/2021"
+      },
+      {
+        "maMonHoc": "ML01009",
+        "tenMonHoc": "Pháp luật đại cương",
+        "tietBatDau": "4",
+        "diaDiemHoc": "C201",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "24/03/2021"
+      },
+      {
+        "maMonHoc": "CD02632",
+        "tenMonHoc": "Kỹ thuật điện tử",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD05",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "25/03/2021"
+      },
+      {
+        "maMonHoc": "TH03222",
+        "tenMonHoc": "Phát triển ứng dụng web cơ bản",
+        "tietBatDau": "6",
+        "diaDiemHoc": "A204",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "25/03/2021"
+      },
+      {
+        "maMonHoc": "CD02634",
+        "tenMonHoc": "Cơ sở lý thuyết mạch",
+        "tietBatDau": "9",
+        "diaDiemHoc": "A103",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "25/03/2021"
+      },
+      {
+        "maMonHoc": "ML01020",
+        "tenMonHoc": "Triết học Mác - Lê Nin",
+        "tietBatDau": "1",
+        "diaDiemHoc": "B.108",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "26/03/2021"
+      },
+      {
+        "maMonHoc": "ML01020",
+        "tenMonHoc": "Triết học Mác - Lê Nin",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.301",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "26/03/2021"
+      },
+      {
+        "maMonHoc": "CD02632",
+        "tenMonHoc": "Kỹ thuật điện tử",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.302",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "26/03/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "04",
+    "startDate": "March 29th",
+    "endDate": "April 5th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "CD02634",
+        "tenMonHoc": "Cơ sở lý thuyết mạch",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD20M",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "29/03/2021"
+      },
+      {
+        "maMonHoc": "CD02634",
+        "tenMonHoc": "Cơ sở lý thuyết mạch",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.106",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "29/03/2021"
+      },
+      {
+        "maMonHoc": "ML01009",
+        "tenMonHoc": "Pháp luật đại cương",
+        "tietBatDau": "1",
+        "diaDiemHoc": "A105",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "30/03/2021"
+      },
+      {
+        "maMonHoc": "ML01020",
+        "tenMonHoc": "Triết học Mác - Lê Nin",
+        "tietBatDau": "4",
+        "diaDiemHoc": "B.209",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "30/03/2021"
+      },
+      {
+        "maMonHoc": "CD02632",
+        "tenMonHoc": "Kỹ thuật điện tử",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.307",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "30/03/2021"
+      },
+      {
+        "maMonHoc": "ML01009",
+        "tenMonHoc": "Pháp luật đại cương",
+        "tietBatDau": "4",
+        "diaDiemHoc": "C201",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "31/03/2021"
+      },
+      {
+        "maMonHoc": "CD02632",
+        "tenMonHoc": "Kỹ thuật điện tử",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD05",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "01/04/2021"
+      },
+      {
+        "maMonHoc": "TH03222",
+        "tenMonHoc": "Phát triển ứng dụng web cơ bản",
+        "tietBatDau": "6",
+        "diaDiemHoc": "A204",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "01/04/2021"
+      },
+      {
+        "maMonHoc": "CD02634",
+        "tenMonHoc": "Cơ sở lý thuyết mạch",
+        "tietBatDau": "9",
+        "diaDiemHoc": "A103",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "01/04/2021"
+      },
+      {
+        "maMonHoc": "ML01020",
+        "tenMonHoc": "Triết học Mác - Lê Nin",
+        "tietBatDau": "1",
+        "diaDiemHoc": "B.108",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "02/04/2021"
+      },
+      {
+        "maMonHoc": "ML01020",
+        "tenMonHoc": "Triết học Mác - Lê Nin",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.301",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "02/04/2021"
+      },
+      {
+        "maMonHoc": "CD02632",
+        "tenMonHoc": "Kỹ thuật điện tử",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.302",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "02/04/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "05",
+    "startDate": "April 5th",
+    "endDate": "April 12th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "CD02634",
+        "tenMonHoc": "Cơ sở lý thuyết mạch",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD20M",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "05/04/2021"
+      },
+      {
+        "maMonHoc": "CD02634",
+        "tenMonHoc": "Cơ sở lý thuyết mạch",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.106",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "05/04/2021"
+      },
+      {
+        "maMonHoc": "ML01009",
+        "tenMonHoc": "Pháp luật đại cương",
+        "tietBatDau": "1",
+        "diaDiemHoc": "A105",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "06/04/2021"
+      },
+      {
+        "maMonHoc": "ML01020",
+        "tenMonHoc": "Triết học Mác - Lê Nin",
+        "tietBatDau": "4",
+        "diaDiemHoc": "B.209",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "06/04/2021"
+      },
+      {
+        "maMonHoc": "CD02632",
+        "tenMonHoc": "Kỹ thuật điện tử",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.307",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "06/04/2021"
+      },
+      {
+        "maMonHoc": "ML01009",
+        "tenMonHoc": "Pháp luật đại cương",
+        "tietBatDau": "4",
+        "diaDiemHoc": "C201",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "07/04/2021"
+      },
+      {
+        "maMonHoc": "CD02632",
+        "tenMonHoc": "Kỹ thuật điện tử",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD05",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "08/04/2021"
+      },
+      {
+        "maMonHoc": "TH03222",
+        "tenMonHoc": "Phát triển ứng dụng web cơ bản",
+        "tietBatDau": "6",
+        "diaDiemHoc": "A204",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "08/04/2021"
+      },
+      {
+        "maMonHoc": "CD02634",
+        "tenMonHoc": "Cơ sở lý thuyết mạch",
+        "tietBatDau": "9",
+        "diaDiemHoc": "A103",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "08/04/2021"
+      },
+      {
+        "maMonHoc": "ML01020",
+        "tenMonHoc": "Triết học Mác - Lê Nin",
+        "tietBatDau": "1",
+        "diaDiemHoc": "B.108",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "09/04/2021"
+      },
+      {
+        "maMonHoc": "ML01020",
+        "tenMonHoc": "Triết học Mác - Lê Nin",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.301",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "09/04/2021"
+      },
+      {
+        "maMonHoc": "CD02632",
+        "tenMonHoc": "Kỹ thuật điện tử",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.302",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "09/04/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "06",
+    "startDate": "April 12th",
+    "endDate": "April 19th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "CD02634",
+        "tenMonHoc": "Cơ sở lý thuyết mạch",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD20M",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "12/04/2021"
+      },
+      {
+        "maMonHoc": "CD02634",
+        "tenMonHoc": "Cơ sở lý thuyết mạch",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.106",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "12/04/2021"
+      },
+      {
+        "maMonHoc": "ML01009",
+        "tenMonHoc": "Pháp luật đại cương",
+        "tietBatDau": "1",
+        "diaDiemHoc": "A105",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "13/04/2021"
+      },
+      {
+        "maMonHoc": "ML01020",
+        "tenMonHoc": "Triết học Mác - Lê Nin",
+        "tietBatDau": "4",
+        "diaDiemHoc": "B.209",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "13/04/2021"
+      },
+      {
+        "maMonHoc": "CD02632",
+        "tenMonHoc": "Kỹ thuật điện tử",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.307",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "13/04/2021"
+      },
+      {
+        "maMonHoc": "ML01009",
+        "tenMonHoc": "Pháp luật đại cương",
+        "tietBatDau": "4",
+        "diaDiemHoc": "C201",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "14/04/2021"
+      },
+      {
+        "maMonHoc": "CD02632",
+        "tenMonHoc": "Kỹ thuật điện tử",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD05",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "15/04/2021"
+      },
+      {
+        "maMonHoc": "CD02634",
+        "tenMonHoc": "Cơ sở lý thuyết mạch",
+        "tietBatDau": "9",
+        "diaDiemHoc": "A103",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "15/04/2021"
+      },
+      {
+        "maMonHoc": "ML01020",
+        "tenMonHoc": "Triết học Mác - Lê Nin",
+        "tietBatDau": "1",
+        "diaDiemHoc": "B.108",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "16/04/2021"
+      },
+      {
+        "maMonHoc": "ML01020",
+        "tenMonHoc": "Triết học Mác - Lê Nin",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.301",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "16/04/2021"
+      },
+      {
+        "maMonHoc": "CD02632",
+        "tenMonHoc": "Kỹ thuật điện tử",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.302",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "16/04/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "07",
+    "startDate": "April 19th",
+    "endDate": "April 26th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "CD02634",
+        "tenMonHoc": "Cơ sở lý thuyết mạch",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD20M",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "19/04/2021"
+      },
+      {
+        "maMonHoc": "TH02003",
+        "tenMonHoc": "Toán rời rạc",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.105",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "20/04/2021"
+      },
+      {
+        "maMonHoc": "CD02632",
+        "tenMonHoc": "Kỹ thuật điện tử",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.307",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "20/04/2021"
+      },
+      {
+        "maMonHoc": "TH02003",
+        "tenMonHoc": "Toán rời rạc",
+        "tietBatDau": "4",
+        "diaDiemHoc": "B.103",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "21/04/2021"
+      },
+      {
+        "maMonHoc": "CD02632",
+        "tenMonHoc": "Kỹ thuật điện tử",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD05",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "22/04/2021"
+      },
+      {
+        "maMonHoc": "TH02003",
+        "tenMonHoc": "Toán rời rạc",
+        "tietBatDau": "6",
+        "diaDiemHoc": "A104",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "23/04/2021"
+      },
+      {
+        "maMonHoc": "CD02632",
+        "tenMonHoc": "Kỹ thuật điện tử",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.302",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "23/04/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "08",
+    "startDate": "April 26th",
+    "endDate": "May 3rd",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "CD02634",
+        "tenMonHoc": "Cơ sở lý thuyết mạch",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD20M",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "26/04/2021"
+      },
+      {
+        "maMonHoc": "TH02003",
+        "tenMonHoc": "Toán rời rạc",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.105",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "27/04/2021"
+      },
+      {
+        "maMonHoc": "CD02632",
+        "tenMonHoc": "Kỹ thuật điện tử",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.307",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "27/04/2021"
+      },
+      {
+        "maMonHoc": "TH02003",
+        "tenMonHoc": "Toán rời rạc",
+        "tietBatDau": "4",
+        "diaDiemHoc": "B.103",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "28/04/2021"
+      },
+      {
+        "maMonHoc": "CD02632",
+        "tenMonHoc": "Kỹ thuật điện tử",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCD05",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "29/04/2021"
+      },
+      {
+        "maMonHoc": "TH02003",
+        "tenMonHoc": "Toán rời rạc",
+        "tietBatDau": "6",
+        "diaDiemHoc": "A104",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "30/04/2021"
+      },
+      {
+        "maMonHoc": "CD02632",
+        "tenMonHoc": "Kỹ thuật điện tử",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.302",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "30/04/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "09",
+    "startDate": "May 3rd",
+    "endDate": "May 10th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TH02003",
+        "tenMonHoc": "Toán rời rạc",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.105",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "04/05/2021"
+      },
+      {
+        "maMonHoc": "TH02003",
+        "tenMonHoc": "Toán rời rạc",
+        "tietBatDau": "4",
+        "diaDiemHoc": "B.103",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "05/05/2021"
+      },
+      {
+        "maMonHoc": "TH02003",
+        "tenMonHoc": "Toán rời rạc",
+        "tietBatDau": "6",
+        "diaDiemHoc": "A104",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "07/05/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "10",
+    "startDate": "May 10th",
+    "endDate": "May 17th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TH02003",
+        "tenMonHoc": "Toán rời rạc",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.105",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "11/05/2021"
+      },
+      {
+        "maMonHoc": "TH02003",
+        "tenMonHoc": "Toán rời rạc",
+        "tietBatDau": "4",
+        "diaDiemHoc": "B.103",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "12/05/2021"
+      },
+      {
+        "maMonHoc": "TH02003",
+        "tenMonHoc": "Toán rời rạc",
+        "tietBatDau": "6",
+        "diaDiemHoc": "A104",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "14/05/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "11",
+    "startDate": "May 17th",
+    "endDate": "May 24th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TH02003",
+        "tenMonHoc": "Toán rời rạc",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.105",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "18/05/2021"
+      },
+      {
+        "maMonHoc": "KT03031",
+        "tenMonHoc": "Quản lý dự án",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.108",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "18/05/2021"
+      },
+      {
+        "maMonHoc": "TH02003",
+        "tenMonHoc": "Toán rời rạc",
+        "tietBatDau": "4",
+        "diaDiemHoc": "B.103",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "19/05/2021"
+      },
+      {
+        "maMonHoc": "KT03031",
+        "tenMonHoc": "Quản lý dự án",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.209",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "19/05/2021"
+      },
+      {
+        "maMonHoc": "TH02003",
+        "tenMonHoc": "Toán rời rạc",
+        "tietBatDau": "6",
+        "diaDiemHoc": "A104",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "21/05/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "12",
+    "startDate": "May 24th",
+    "endDate": "May 31st",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TH02003",
+        "tenMonHoc": "Toán rời rạc",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.105",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "25/05/2021"
+      },
+      {
+        "maMonHoc": "KT03031",
+        "tenMonHoc": "Quản lý dự án",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.108",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "25/05/2021"
+      },
+      {
+        "maMonHoc": "TH02003",
+        "tenMonHoc": "Toán rời rạc",
+        "tietBatDau": "4",
+        "diaDiemHoc": "B.103",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "26/05/2021"
+      },
+      {
+        "maMonHoc": "KT03031",
+        "tenMonHoc": "Quản lý dự án",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.209",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "26/05/2021"
+      },
+      {
+        "maMonHoc": "TH02003",
+        "tenMonHoc": "Toán rời rạc",
+        "tietBatDau": "6",
+        "diaDiemHoc": "A104",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "28/05/2021"
+      },
+      {
+        "maMonHoc": "TH03222",
+        "tenMonHoc": "Phát triển ứng dụng web cơ bản",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCNTT07",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "29/05/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "13",
+    "startDate": "May 31st",
+    "endDate": "June 7th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "KT03031",
+        "tenMonHoc": "Quản lý dự án",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.108",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "01/06/2021"
+      },
+      {
+        "maMonHoc": "KT03031",
+        "tenMonHoc": "Quản lý dự án",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.209",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "02/06/2021"
+      },
+      {
+        "maMonHoc": "TH03222",
+        "tenMonHoc": "Phát triển ứng dụng web cơ bản",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCNTT07",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "05/06/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "14",
+    "startDate": "June 7th",
+    "endDate": "June 14th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "KT03031",
+        "tenMonHoc": "Quản lý dự án",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.108",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "08/06/2021"
+      },
+      {
+        "maMonHoc": "KT03031",
+        "tenMonHoc": "Quản lý dự án",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.209",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "09/06/2021"
+      },
+      {
+        "maMonHoc": "TH03222",
+        "tenMonHoc": "Phát triển ứng dụng web cơ bản",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCNTT07",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "12/06/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "15",
+    "startDate": "June 14th",
+    "endDate": "June 21st",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "KT03031",
+        "tenMonHoc": "Quản lý dự án",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.108",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "15/06/2021"
+      },
+      {
+        "maMonHoc": "KT03031",
+        "tenMonHoc": "Quản lý dự án",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.209",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "16/06/2021"
+      },
+      {
+        "maMonHoc": "TH03222",
+        "tenMonHoc": "Phát triển ứng dụng web cơ bản",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCNTT07",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "19/06/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "16",
+    "startDate": "June 21st",
+    "endDate": "June 28th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "KT03031",
+        "tenMonHoc": "Quản lý dự án",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.108",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "22/06/2021"
+      },
+      {
+        "maMonHoc": "KT03031",
+        "tenMonHoc": "Quản lý dự án",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.209",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "23/06/2021"
+      },
+      {
+        "maMonHoc": "TH03222",
+        "tenMonHoc": "Phát triển ứng dụng web cơ bản",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCNTT07",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "26/06/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "17",
+    "startDate": "June 28th",
+    "endDate": "July 5th",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "KT03031",
+        "tenMonHoc": "Quản lý dự án",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.108",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "29/06/2021"
+      },
+      {
+        "maMonHoc": "KT03031",
+        "tenMonHoc": "Quản lý dự án",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.209",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "30/06/2021"
+      },
+      {
+        "maMonHoc": "TH03222",
+        "tenMonHoc": "Phát triển ứng dụng web cơ bản",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCNTT07",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "03/07/2021"
+      }
+    ]
+  }
+]

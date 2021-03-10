@@ -1,0 +1,1441 @@
+[
+  {
+    "maTuan": "01",
+    "startDate": "15/03/2021",
+    "endDate": "22/03/2021",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TY02019",
+        "tenMonHoc": "Vi sinh v?t h?c thú y",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.207",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "15/03/2021"
+      },
+      {
+        "maMonHoc": "CN02305",
+        "tenMonHoc": "Sinh lý ??ng v?t 2",
+        "tietBatDau": "9",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "15/03/2021"
+      },
+      {
+        "maMonHoc": "CN02305",
+        "tenMonHoc": "Sinh lý ??ng v?t 2",
+        "tietBatDau": "6",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "16/03/2021"
+      },
+      {
+        "maMonHoc": "TY02019",
+        "tenMonHoc": "Vi sinh v?t h?c thú y",
+        "tietBatDau": "9",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "16/03/2021"
+      },
+      {
+        "maMonHoc": "TY02006",
+        "tenMonHoc": "D??c lý h?c thú y",
+        "tietBatDau": "1",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "17/03/2021"
+      },
+      {
+        "maMonHoc": "ML01022",
+        "tenMonHoc": "Ch? ngh?a xã h?i khoa h?c",
+        "tietBatDau": "4",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "18/03/2021"
+      },
+      {
+        "maMonHoc": "ML01022",
+        "tenMonHoc": "Ch? ngh?a xã h?i khoa h?c",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.201",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "18/03/2021"
+      },
+      {
+        "maMonHoc": "TY02002",
+        "tenMonHoc": "Gi?i ph?u v?t nuôi 2",
+        "tietBatDau": "1",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "19/03/2021"
+      },
+      {
+        "maMonHoc": "TY02006",
+        "tenMonHoc": "D??c lý h?c thú y",
+        "tietBatDau": "4",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "19/03/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "02",
+    "startDate": "22/03/2021",
+    "endDate": "29/03/2021",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TY02019",
+        "tenMonHoc": "Vi sinh v?t h?c thú y",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.207",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "22/03/2021"
+      },
+      {
+        "maMonHoc": "CN02305",
+        "tenMonHoc": "Sinh lý ??ng v?t 2",
+        "tietBatDau": "9",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "22/03/2021"
+      },
+      {
+        "maMonHoc": "CN02305",
+        "tenMonHoc": "Sinh lý ??ng v?t 2",
+        "tietBatDau": "6",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "23/03/2021"
+      },
+      {
+        "maMonHoc": "TY02019",
+        "tenMonHoc": "Vi sinh v?t h?c thú y",
+        "tietBatDau": "9",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "23/03/2021"
+      },
+      {
+        "maMonHoc": "TY02006",
+        "tenMonHoc": "D??c lý h?c thú y",
+        "tietBatDau": "1",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "24/03/2021"
+      },
+      {
+        "maMonHoc": "ML01022",
+        "tenMonHoc": "Ch? ngh?a xã h?i khoa h?c",
+        "tietBatDau": "4",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "25/03/2021"
+      },
+      {
+        "maMonHoc": "ML01022",
+        "tenMonHoc": "Ch? ngh?a xã h?i khoa h?c",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.201",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "25/03/2021"
+      },
+      {
+        "maMonHoc": "TY02002",
+        "tenMonHoc": "Gi?i ph?u v?t nuôi 2",
+        "tietBatDau": "1",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "26/03/2021"
+      },
+      {
+        "maMonHoc": "TY02006",
+        "tenMonHoc": "D??c lý h?c thú y",
+        "tietBatDau": "4",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "26/03/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "03",
+    "startDate": "29/03/2021",
+    "endDate": "05/04/2021",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TY02019",
+        "tenMonHoc": "Vi sinh v?t h?c thú y",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.207",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "29/03/2021"
+      },
+      {
+        "maMonHoc": "CN02305",
+        "tenMonHoc": "Sinh lý ??ng v?t 2",
+        "tietBatDau": "9",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "29/03/2021"
+      },
+      {
+        "maMonHoc": "CN02305",
+        "tenMonHoc": "Sinh lý ??ng v?t 2",
+        "tietBatDau": "6",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "30/03/2021"
+      },
+      {
+        "maMonHoc": "TY02019",
+        "tenMonHoc": "Vi sinh v?t h?c thú y",
+        "tietBatDau": "9",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "30/03/2021"
+      },
+      {
+        "maMonHoc": "TY02006",
+        "tenMonHoc": "D??c lý h?c thú y",
+        "tietBatDau": "1",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "31/03/2021"
+      },
+      {
+        "maMonHoc": "ML01022",
+        "tenMonHoc": "Ch? ngh?a xã h?i khoa h?c",
+        "tietBatDau": "4",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "01/04/2021"
+      },
+      {
+        "maMonHoc": "ML01022",
+        "tenMonHoc": "Ch? ngh?a xã h?i khoa h?c",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.201",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "01/04/2021"
+      },
+      {
+        "maMonHoc": "TY02002",
+        "tenMonHoc": "Gi?i ph?u v?t nuôi 2",
+        "tietBatDau": "1",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "02/04/2021"
+      },
+      {
+        "maMonHoc": "TY02006",
+        "tenMonHoc": "D??c lý h?c thú y",
+        "tietBatDau": "4",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "02/04/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "04",
+    "startDate": "05/04/2021",
+    "endDate": "12/04/2021",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TY02019",
+        "tenMonHoc": "Vi sinh v?t h?c thú y",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.207",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "05/04/2021"
+      },
+      {
+        "maMonHoc": "CN02305",
+        "tenMonHoc": "Sinh lý ??ng v?t 2",
+        "tietBatDau": "9",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "05/04/2021"
+      },
+      {
+        "maMonHoc": "CN02305",
+        "tenMonHoc": "Sinh lý ??ng v?t 2",
+        "tietBatDau": "6",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "06/04/2021"
+      },
+      {
+        "maMonHoc": "TY02019",
+        "tenMonHoc": "Vi sinh v?t h?c thú y",
+        "tietBatDau": "9",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "06/04/2021"
+      },
+      {
+        "maMonHoc": "TY02006",
+        "tenMonHoc": "D??c lý h?c thú y",
+        "tietBatDau": "1",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "07/04/2021"
+      },
+      {
+        "maMonHoc": "ML01022",
+        "tenMonHoc": "Ch? ngh?a xã h?i khoa h?c",
+        "tietBatDau": "4",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "08/04/2021"
+      },
+      {
+        "maMonHoc": "ML01022",
+        "tenMonHoc": "Ch? ngh?a xã h?i khoa h?c",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.201",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "08/04/2021"
+      },
+      {
+        "maMonHoc": "TY02002",
+        "tenMonHoc": "Gi?i ph?u v?t nuôi 2",
+        "tietBatDau": "1",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "09/04/2021"
+      },
+      {
+        "maMonHoc": "TY02006",
+        "tenMonHoc": "D??c lý h?c thú y",
+        "tietBatDau": "4",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "09/04/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "05",
+    "startDate": "12/04/2021",
+    "endDate": "19/04/2021",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TY02019",
+        "tenMonHoc": "Vi sinh v?t h?c thú y",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.207",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "12/04/2021"
+      },
+      {
+        "maMonHoc": "CN02305",
+        "tenMonHoc": "Sinh lý ??ng v?t 2",
+        "tietBatDau": "9",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "12/04/2021"
+      },
+      {
+        "maMonHoc": "CN02305",
+        "tenMonHoc": "Sinh lý ??ng v?t 2",
+        "tietBatDau": "6",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "13/04/2021"
+      },
+      {
+        "maMonHoc": "TY02019",
+        "tenMonHoc": "Vi sinh v?t h?c thú y",
+        "tietBatDau": "9",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "13/04/2021"
+      },
+      {
+        "maMonHoc": "TY02006",
+        "tenMonHoc": "D??c lý h?c thú y",
+        "tietBatDau": "1",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "14/04/2021"
+      },
+      {
+        "maMonHoc": "ML01022",
+        "tenMonHoc": "Ch? ngh?a xã h?i khoa h?c",
+        "tietBatDau": "4",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "15/04/2021"
+      },
+      {
+        "maMonHoc": "ML01022",
+        "tenMonHoc": "Ch? ngh?a xã h?i khoa h?c",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.201",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "15/04/2021"
+      },
+      {
+        "maMonHoc": "TY02002",
+        "tenMonHoc": "Gi?i ph?u v?t nuôi 2",
+        "tietBatDau": "1",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "16/04/2021"
+      },
+      {
+        "maMonHoc": "TY02006",
+        "tenMonHoc": "D??c lý h?c thú y",
+        "tietBatDau": "4",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "16/04/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "06",
+    "startDate": "19/04/2021",
+    "endDate": "26/04/2021",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TY02019",
+        "tenMonHoc": "Vi sinh v?t h?c thú y",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.207",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "19/04/2021"
+      },
+      {
+        "maMonHoc": "TY02004",
+        "tenMonHoc": "Mô h?c 2",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.110",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "19/04/2021"
+      },
+      {
+        "maMonHoc": "TY02019",
+        "tenMonHoc": "Vi sinh v?t h?c thú y",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THTY06",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "20/04/2021"
+      },
+      {
+        "maMonHoc": "TY02020",
+        "tenMonHoc": "B?nh lý h?c thú y 1",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.205",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "20/04/2021"
+      },
+      {
+        "maMonHoc": "TY02019",
+        "tenMonHoc": "Vi sinh v?t h?c thú y",
+        "tietBatDau": "9",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "20/04/2021"
+      },
+      {
+        "maMonHoc": "TY02006",
+        "tenMonHoc": "D??c lý h?c thú y",
+        "tietBatDau": "1",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "21/04/2021"
+      },
+      {
+        "maMonHoc": "TY02004",
+        "tenMonHoc": "Mô h?c 2",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.203",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "21/04/2021"
+      },
+      {
+        "maMonHoc": "TY02006",
+        "tenMonHoc": "D??c lý h?c thú y",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THTY27",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "22/04/2021"
+      },
+      {
+        "maMonHoc": "ML01022",
+        "tenMonHoc": "Ch? ngh?a xã h?i khoa h?c",
+        "tietBatDau": "4",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "22/04/2021"
+      },
+      {
+        "maMonHoc": "ML01022",
+        "tenMonHoc": "Ch? ngh?a xã h?i khoa h?c",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.201",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "22/04/2021"
+      },
+      {
+        "maMonHoc": "TY02020",
+        "tenMonHoc": "B?nh lý h?c thú y 1",
+        "tietBatDau": "2",
+        "diaDiemHoc": "ND305",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h55 - 9h40 (2-3)",
+        "stSh": "7h55",
+        "enSh": "9h40",
+        "shNu": "2 - 3: ",
+        "ngayHoc": "23/04/2021"
+      },
+      {
+        "maMonHoc": "TY02006",
+        "tenMonHoc": "D??c lý h?c thú y",
+        "tietBatDau": "4",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "23/04/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "07",
+    "startDate": "26/04/2021",
+    "endDate": "03/05/2021",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TY02019",
+        "tenMonHoc": "Vi sinh v?t h?c thú y",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.207",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "26/04/2021"
+      },
+      {
+        "maMonHoc": "TY02004",
+        "tenMonHoc": "Mô h?c 2",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.110",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "26/04/2021"
+      },
+      {
+        "maMonHoc": "TY02019",
+        "tenMonHoc": "Vi sinh v?t h?c thú y",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THTY06",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "27/04/2021"
+      },
+      {
+        "maMonHoc": "TY02020",
+        "tenMonHoc": "B?nh lý h?c thú y 1",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.205",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "27/04/2021"
+      },
+      {
+        "maMonHoc": "TY02019",
+        "tenMonHoc": "Vi sinh v?t h?c thú y",
+        "tietBatDau": "9",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "27/04/2021"
+      },
+      {
+        "maMonHoc": "TY02006",
+        "tenMonHoc": "D??c lý h?c thú y",
+        "tietBatDau": "1",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "28/04/2021"
+      },
+      {
+        "maMonHoc": "TY02004",
+        "tenMonHoc": "Mô h?c 2",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.203",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "28/04/2021"
+      },
+      {
+        "maMonHoc": "TY02006",
+        "tenMonHoc": "D??c lý h?c thú y",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THTY27",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "29/04/2021"
+      },
+      {
+        "maMonHoc": "TY02020",
+        "tenMonHoc": "B?nh lý h?c thú y 1",
+        "tietBatDau": "2",
+        "diaDiemHoc": "ND305",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h55 - 9h40 (2-3)",
+        "stSh": "7h55",
+        "enSh": "9h40",
+        "shNu": "2 - 3: ",
+        "ngayHoc": "30/04/2021"
+      },
+      {
+        "maMonHoc": "TY02006",
+        "tenMonHoc": "D??c lý h?c thú y",
+        "tietBatDau": "4",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "30/04/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "08",
+    "startDate": "03/05/2021",
+    "endDate": "10/05/2021",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TY02019",
+        "tenMonHoc": "Vi sinh v?t h?c thú y",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.207",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "03/05/2021"
+      },
+      {
+        "maMonHoc": "TY02004",
+        "tenMonHoc": "Mô h?c 2",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.110",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "03/05/2021"
+      },
+      {
+        "maMonHoc": "TY02019",
+        "tenMonHoc": "Vi sinh v?t h?c thú y",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THTY06",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "04/05/2021"
+      },
+      {
+        "maMonHoc": "TY02020",
+        "tenMonHoc": "B?nh lý h?c thú y 1",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.205",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "04/05/2021"
+      },
+      {
+        "maMonHoc": "TY02019",
+        "tenMonHoc": "Vi sinh v?t h?c thú y",
+        "tietBatDau": "9",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "04/05/2021"
+      },
+      {
+        "maMonHoc": "TY02006",
+        "tenMonHoc": "D??c lý h?c thú y",
+        "tietBatDau": "1",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 9h40 (1-3)",
+        "stSh": "7h00",
+        "enSh": "9h40",
+        "shNu": "1 - 3: ",
+        "ngayHoc": "05/05/2021"
+      },
+      {
+        "maMonHoc": "TY02004",
+        "tenMonHoc": "Mô h?c 2",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.203",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "05/05/2021"
+      },
+      {
+        "maMonHoc": "TY02006",
+        "tenMonHoc": "D??c lý h?c thú y",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THTY27",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "06/05/2021"
+      },
+      {
+        "maMonHoc": "TY02020",
+        "tenMonHoc": "B?nh lý h?c thú y 1",
+        "tietBatDau": "2",
+        "diaDiemHoc": "ND305",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h55 - 9h40 (2-3)",
+        "stSh": "7h55",
+        "enSh": "9h40",
+        "shNu": "2 - 3: ",
+        "ngayHoc": "07/05/2021"
+      },
+      {
+        "maMonHoc": "TY02006",
+        "tenMonHoc": "D??c lý h?c thú y",
+        "tietBatDau": "4",
+        "diaDiemHoc": "ND208",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "9h55 - 11h40 (4-5)",
+        "stSh": "9h55",
+        "enSh": "11h40",
+        "shNu": "4 - 5: ",
+        "ngayHoc": "07/05/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "09",
+    "startDate": "10/05/2021",
+    "endDate": "17/05/2021",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TY02004",
+        "tenMonHoc": "Mô h?c 2",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.110",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "10/05/2021"
+      },
+      {
+        "maMonHoc": "TY02020",
+        "tenMonHoc": "B?nh lý h?c thú y 1",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.205",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "11/05/2021"
+      },
+      {
+        "maMonHoc": "CN02305",
+        "tenMonHoc": "Sinh lý ??ng v?t 2",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCN18",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "12/05/2021"
+      },
+      {
+        "maMonHoc": "TY02004",
+        "tenMonHoc": "Mô h?c 2",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.203",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "12/05/2021"
+      },
+      {
+        "maMonHoc": "TY02020",
+        "tenMonHoc": "B?nh lý h?c thú y 1",
+        "tietBatDau": "2",
+        "diaDiemHoc": "ND305",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h55 - 9h40 (2-3)",
+        "stSh": "7h55",
+        "enSh": "9h40",
+        "shNu": "2 - 3: ",
+        "ngayHoc": "14/05/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "10",
+    "startDate": "17/05/2021",
+    "endDate": "24/05/2021",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TY02004",
+        "tenMonHoc": "Mô h?c 2",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.110",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "17/05/2021"
+      },
+      {
+        "maMonHoc": "TY02020",
+        "tenMonHoc": "B?nh lý h?c thú y 1",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.205",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "18/05/2021"
+      },
+      {
+        "maMonHoc": "CN02305",
+        "tenMonHoc": "Sinh lý ??ng v?t 2",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCN18",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "19/05/2021"
+      },
+      {
+        "maMonHoc": "TY02004",
+        "tenMonHoc": "Mô h?c 2",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.203",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "19/05/2021"
+      },
+      {
+        "maMonHoc": "TY02020",
+        "tenMonHoc": "B?nh lý h?c thú y 1",
+        "tietBatDau": "2",
+        "diaDiemHoc": "ND305",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h55 - 9h40 (2-3)",
+        "stSh": "7h55",
+        "enSh": "9h40",
+        "shNu": "2 - 3: ",
+        "ngayHoc": "21/05/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "11",
+    "startDate": "24/05/2021",
+    "endDate": "31/05/2021",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TY02004",
+        "tenMonHoc": "Mô h?c 2",
+        "tietBatDau": "9",
+        "diaDiemHoc": "B.110",
+        "ngayThu": "Mon",
+        "thoiGianHoc": "15h40 - 17h25 (9-10)",
+        "stSh": "15h40",
+        "enSh": "17h25",
+        "shNu": "9 - 10: ",
+        "ngayHoc": "24/05/2021"
+      },
+      {
+        "maMonHoc": "TY02020",
+        "tenMonHoc": "B?nh lý h?c thú y 1",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.205",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "25/05/2021"
+      },
+      {
+        "maMonHoc": "CN02305",
+        "tenMonHoc": "Sinh lý ??ng v?t 2",
+        "tietBatDau": "1",
+        "diaDiemHoc": "THCN18",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "26/05/2021"
+      },
+      {
+        "maMonHoc": "TY02004",
+        "tenMonHoc": "Mô h?c 2",
+        "tietBatDau": "6",
+        "diaDiemHoc": "B.203",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "12h45 - 15h25 (6-8)",
+        "stSh": "12h45",
+        "enSh": "15h25",
+        "shNu": "6 - 8: ",
+        "ngayHoc": "26/05/2021"
+      },
+      {
+        "maMonHoc": "TY02020",
+        "tenMonHoc": "B?nh lý h?c thú y 1",
+        "tietBatDau": "2",
+        "diaDiemHoc": "ND305",
+        "ngayThu": "Fri",
+        "thoiGianHoc": "7h55 - 9h40 (2-3)",
+        "stSh": "7h55",
+        "enSh": "9h40",
+        "shNu": "2 - 3: ",
+        "ngayHoc": "28/05/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "12",
+    "startDate": "31/05/2021",
+    "endDate": "07/06/2021",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TY02020",
+        "tenMonHoc": "B?nh lý h?c thú y 1",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THTY32",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "01/06/2021"
+      },
+      {
+        "maMonHoc": "KN01002",
+        "tenMonHoc": "K? n?ng lãnh ??o",
+        "tietBatDau": "1",
+        "diaDiemHoc": "E104",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "02/06/2021"
+      },
+      {
+        "maMonHoc": "TY02004",
+        "tenMonHoc": "Mô h?c 2",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THTY10",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "03/06/2021"
+      },
+      {
+        "maMonHoc": "TY02002",
+        "tenMonHoc": "Gi?i ph?u v?t nuôi 2",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THTY09",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "05/06/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "13",
+    "startDate": "07/06/2021",
+    "endDate": "14/06/2021",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TY02020",
+        "tenMonHoc": "B?nh lý h?c thú y 1",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THTY32",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "08/06/2021"
+      },
+      {
+        "maMonHoc": "KN01002",
+        "tenMonHoc": "K? n?ng lãnh ??o",
+        "tietBatDau": "1",
+        "diaDiemHoc": "E104",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "09/06/2021"
+      },
+      {
+        "maMonHoc": "TY02004",
+        "tenMonHoc": "Mô h?c 2",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THTY10",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "10/06/2021"
+      },
+      {
+        "maMonHoc": "TY02002",
+        "tenMonHoc": "Gi?i ph?u v?t nuôi 2",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THTY09",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "12/06/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "14",
+    "startDate": "14/06/2021",
+    "endDate": "21/06/2021",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "TY02020",
+        "tenMonHoc": "B?nh lý h?c thú y 1",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THTY32",
+        "ngayThu": "Tue",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "15/06/2021"
+      },
+      {
+        "maMonHoc": "KN01002",
+        "tenMonHoc": "K? n?ng lãnh ??o",
+        "tietBatDau": "1",
+        "diaDiemHoc": "E104",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "16/06/2021"
+      },
+      {
+        "maMonHoc": "TY02004",
+        "tenMonHoc": "Mô h?c 2",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THTY10",
+        "ngayThu": "Thur",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "17/06/2021"
+      },
+      {
+        "maMonHoc": "TY02002",
+        "tenMonHoc": "Gi?i ph?u v?t nuôi 2",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THTY09",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "19/06/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "15",
+    "startDate": "21/06/2021",
+    "endDate": "28/06/2021",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "KN01002",
+        "tenMonHoc": "K? n?ng lãnh ??o",
+        "tietBatDau": "1",
+        "diaDiemHoc": "E104",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "23/06/2021"
+      },
+      {
+        "maMonHoc": "TY02002",
+        "tenMonHoc": "Gi?i ph?u v?t nuôi 2",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THTY09",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "26/06/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "16",
+    "startDate": "28/06/2021",
+    "endDate": "05/07/2021",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "KN01002",
+        "tenMonHoc": "K? n?ng lãnh ??o",
+        "tietBatDau": "1",
+        "diaDiemHoc": "E104",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "30/06/2021"
+      },
+      {
+        "maMonHoc": "TY02002",
+        "tenMonHoc": "Gi?i ph?u v?t nuôi 2",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THTY09",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "03/07/2021"
+      }
+    ]
+  },
+  {
+    "maTuan": "17",
+    "startDate": "05/07/2021",
+    "endDate": "12/07/2021",
+    "dsMonHoc": [
+      {
+        "maMonHoc": "KN01002",
+        "tenMonHoc": "K? n?ng lãnh ??o",
+        "tietBatDau": "1",
+        "diaDiemHoc": "ND207",
+        "ngayThu": "Wed",
+        "thoiGianHoc": "7h00 - 11h40 (1-5)",
+        "stSh": "7h00",
+        "enSh": "11h40",
+        "shNu": "1 - 5: ",
+        "ngayHoc": "07/07/2021"
+      },
+      {
+        "maMonHoc": "TY02002",
+        "tenMonHoc": "Gi?i ph?u v?t nuôi 2",
+        "tietBatDau": "6",
+        "diaDiemHoc": "THTY09",
+        "ngayThu": "Sat",
+        "thoiGianHoc": "12h45 - 17h25 (6-10)",
+        "stSh": "12h45",
+        "enSh": "17h25",
+        "shNu": "6 - 10: ",
+        "ngayHoc": "10/07/2021"
+      }
+    ]
+  }
+]

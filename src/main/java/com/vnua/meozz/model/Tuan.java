@@ -42,12 +42,12 @@ public class Tuan {
 		String courseAll = "";
 		for(int q = 0;q<dsMonHoc.size();q++) {
 			MonHoc course = dsMonHoc.get(q);
-			courseAll+="Môn hoc thứ "+(q+1)+" :\n"+course.toString()+"\n";
+			courseAll+="  Môn học thứ "+(q+1)+" :\n"+course.toString()+"\n";
 		}
-		return "Mã tuân: "+maTuan+"."
-				+"\n Ngay bắt đâu tuân hoc: "+startDate+"."
-				+"\n Ngay kết thúc tuân hoc: "+endDate+"."
-				+"\nDanh sách các môn hoc: \n"
+		return "Mã tuần: "+maTuan+"."
+				+"\n Ngày bắt đầu tuần học: "+startDate+"."
+				+"\n Ngày kết thúc tuần học: "+endDate+"."
+				+"\nDanh sách các môn học: \n"
 				+courseAll;
 	}
 	

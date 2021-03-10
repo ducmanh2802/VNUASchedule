@@ -1,5 +1,5 @@
--injars 'E:\Git Repo\FX Projects\VNUASchedulerVersion1.7\build\javafxports\tmp\android\multi-dex\allclasses.jar'
--outjars 'E:\Git Repo\FX Projects\VNUASchedulerVersion1.7\build\javafxports\tmp\android\multi-dex\componentClasses.jar'
+-injars 'E:\Git Repo\FX Projects\VNUASchedulerVersion1.8-Feb2nd\VNUASchedulerVersion1.9\build\javafxports\tmp\android\multi-dex\allclasses.jar'
+-outjars 'E:\Git Repo\FX Projects\VNUASchedulerVersion1.8-Feb2nd\VNUASchedulerVersion1.9\build\javafxports\tmp\android\multi-dex\componentClasses.jar'
 
 -libraryjars 'C:\Users\Minh\AppData\Local\Android\Sdk\build-tools\30.0.2\lib\shrinkedAndroid.jar'
 
@@ -9,7 +9,7 @@
 -dontpreverify
 -dontnote
 -dontwarn
--printconfiguration 'E:\Git Repo\FX Projects\VNUASchedulerVersion1.7\build\javafxports\tmp\android\multi-dex\components.flags'
+-printconfiguration 'E:\Git Repo\FX Projects\VNUASchedulerVersion1.8-Feb2nd\VNUASchedulerVersion1.9\build\javafxports\tmp\android\multi-dex\components.flags'
 
 
 -keep class android.support.multidex.MultiDexApplication {

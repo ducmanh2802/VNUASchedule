@@ -92,7 +92,7 @@ public class MonThi {
 	@Override
 	public String toString() {
 		return 	"Tên môn thi: "+tenMonHoc+"."
-				+"\n\tGhep thi: "+ghepThi+"."
+				+"\n\tGhép thi: "+ghepThi+"."
 				+"\n\tTổ thi: "+toThi+"."
 				+"\n\tSố lượng: "+soLuong+"."
 				+"\n\tNgày thi: "+ngayThi+"."

@@ -1,0 +1,90 @@
+[
+  {
+    "tenMonHoc": "Kế toán ngân hàng",
+    "ghepThi": "04",
+    "toThi": "001",
+    "soLuong": "25",
+    "ngayThi": "11/01/2021",
+    "ngayThu": "Thứ Hai",
+    "phongThi": "E402",
+    "thoiGian": "12h45 - 14h30",
+    "tietThi": "6 - 7"
+  },
+  {
+    "tenMonHoc": "Kế toán quản trị",
+    "ghepThi": "07",
+    "toThi": "001",
+    "soLuong": "32",
+    "ngayThi": "23/01/2021",
+    "ngayThu": "Thứ Bảy",
+    "phongThi": "E101",
+    "thoiGian": "12h45 - 14h30",
+    "tietThi": "6 - 7"
+  },
+  {
+    "tenMonHoc": "Tiếng Anh 0",
+    "ghepThi": "05",
+    "toThi": "001",
+    "soLuong": "30",
+    "ngayThi": "24/01/2021",
+    "ngayThu": "Chủ Nhật",
+    "phongThi": "B.208",
+    "thoiGian": "7h55 - 9h40",
+    "tietThi": "2 - 3"
+  },
+  {
+    "tenMonHoc": "Tâm lý quản lý",
+    "ghepThi": "05",
+    "toThi": "001",
+    "soLuong": "58",
+    "ngayThi": "26/01/2021",
+    "ngayThu": "Thứ Ba",
+    "phongThi": "ND201",
+    "thoiGian": "14h35 - 16h30",
+    "tietThi": "8 - 9"
+  },
+  {
+    "tenMonHoc": "Kế toán tài chính 1",
+    "ghepThi": "01",
+    "toThi": "001",
+    "soLuong": "60",
+    "ngayThi": "28/01/2021",
+    "ngayThu": "Thứ Năm",
+    "phongThi": "ND208",
+    "thoiGian": "14h35 - 16h30",
+    "tietThi": "8 - 9"
+  },
+  {
+    "tenMonHoc": "Chủ nghĩa xã hội khoa học",
+    "ghepThi": "12",
+    "toThi": "001",
+    "soLuong": "48",
+    "ngayThi": "01/03/2021",
+    "ngayThu": "Thứ Hai",
+    "phongThi": "ND305",
+    "thoiGian": "9h55 - 11h40",
+    "tietThi": "4 - 5"
+  },
+  {
+    "tenMonHoc": "Kỹ năng làm việc nhóm",
+    "ghepThi": "04",
+    "toThi": "001",
+    "soLuong": "60",
+    "ngayThi": "05/03/2021",
+    "ngayThu": "Thứ Sáu",
+    "phongThi": "ND204",
+    "thoiGian": "7h55 - 9h40",
+    "tietThi": "2 - 3"
+  },
+  {
+    "tenMonHoc": "Tài chính tiền tệ",
+    "ghepThi": "01",
+    "toThi": "001",
+    "soLuong": "37",
+    "ngayThi": "07/03/2021",
+    "ngayThu": "Chủ Nhật",
+    "phongThi": "B.201",
+    "thoiGian": "12h45 - 14h30",
+    "tietThi": "6 - 7"
+  }
+]
